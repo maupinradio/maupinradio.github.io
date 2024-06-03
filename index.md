@@ -8,4 +8,4 @@ permalink: /
 ### Coming soon.
 
 
-![Image](./IWTB-MO_BLACKANDWHITE.jpg){:class="img-responsive"}
+![Image](./images/IWTB-MO_BLACKANDWHITE.jpg)
